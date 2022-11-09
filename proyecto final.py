@@ -28,7 +28,7 @@ class Emergencia():
 
 def conocer_posicion(self):
   print("------------------------------------------------------------------------")
-  print("Coordenadas de la llamada de emergencia:\n x:",
+  print("CCCCCC de la llamada de emergencia:\n x:",
   self.posicion_x, "\n y:", self.posicion_y)
 
 def crearHospitales(numero_hospitales = 5):
